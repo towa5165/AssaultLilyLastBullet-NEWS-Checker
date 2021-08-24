@@ -1,2 +1,0 @@
-# AssaultLilyLastBullet-NEWS-Checker
-スマートホンアプリ「アサルトリリィ Last Bullet」のゲーム内からみれるお知らせをDiscordウェブフックに送信する
